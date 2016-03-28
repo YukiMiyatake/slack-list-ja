@@ -172,5 +172,12 @@
         "url": "https://rust-jp.herokuapp.com/",
         "description": "プログラミング言語 Rust の日本語コミュニティ",
         "tag": ["Rust"]
+    },
+    {
+        "name": "GeekLabo",
+        "url": "http://goo.gl/forms/fRfj2o85kE",
+        "description": "プログラム、インフラ等 技術的な会話が好きな人用",
+        "tag": ["Teck", "Geek"]
     }
+
 ]
